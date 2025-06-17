@@ -105,6 +105,11 @@ NEXT_PUBLIC_CONVEX_URL=
 ```bash
 npm run dev
 ```
+### 5. Run Convex Backend Server
+
+```bash
+npx convex dev
+```
 Visit http://localhost:3000 to start using the app.
 
 
