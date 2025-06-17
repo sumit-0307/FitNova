@@ -4,7 +4,7 @@
 
 ---
 
-🚀 **Live Demo:** [https://fit-nova-izumi.vercel.app](https://fit-nova-izumi.vercel.app)
+🚀 **Live Demo:** [FitNova](https://fit-nova-izumi.vercel.app)
 
 ---
 
