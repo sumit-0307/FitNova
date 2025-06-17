@@ -4,6 +4,10 @@
 
 ---
 
+🚀 **Live Demo:** [https://fit-nova-izumi.vercel.app](https://fit-nova-izumi.vercel.app)
+
+---
+
 #  FITNOVA – Your AI-Powered Fitness Trainer
 
 FITNOVA is an AI-powered fitness web app designed to revolutionize your health journey. From voice-driven conversations to personalized workouts and meal plans, FITNOVA leverages the latest in AI and modern web technologies to deliver a smart, interactive fitness experience.
