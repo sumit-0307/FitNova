@@ -66,7 +66,7 @@ FITNOVA is an AI-powered fitness web app designed to revolutionize your health j
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fitnova.git
+git clone https://github.com/sumit-0307/fitnova.git
 cd fitnova
 ```
 ### 2. Install Dependencies
