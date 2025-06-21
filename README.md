@@ -8,6 +8,53 @@
 
 ---
 
+## 📖 How to Use the Live Demo
+
+Ready to try **FITNOVA** in action? Follow these steps to experience the AI-powered fitness assistant:
+
+### 🔑 Step 1: Log In / Sign Up
+
+- Visit the live site: [FitNova](https://fit-nova-izumi.vercel.app)
+- Create an account or log in using GitHub, Google, or email/password.
+
+### 🏗️ Step 2: Build Your Fitness Program
+
+- Once logged in, click on **"Build/Generate Program"**.
+- This will start the process of building your personalized workout and diet plans.
+
+### 📞 Step 3: Start the AI Voice Call
+
+- Tap on **“Start Call”** to begin your conversation with the AI assistant.
+- The AI will ask you about:
+  - Age, weight and height to calculate your BMI
+  - Any existing injuries related to physical or mental health
+  - Fitness goals
+  - Workout days preferences
+  - Current fitness level (beginner, intermediate, advanced)
+  - Diet preferences and allergies (veg or non-veg preferences or any other)
+
+> 🗣️ **Tip:** Speak clearly and answer all questions patiently. Since this is an AI, it may occasionally misunderstand or misinterpret your input.
+
+### 📝 Step 4: Monitor the Subtitle Window
+
+- A **subtitle window** below the call displays transcriptions of your responses.
+- ⚠️ It may contain minor errors — it's meant to help you verify that the AI is hearing you correctly.
+
+### ⏳ Step 5: Wait for Generation
+
+- After all information is collected, the AI will ask you to wait while it processes your inputs.
+- It will send API requests and generate a custom program in the background.
+- **Do not manually end the call** — the AI will automatically end the call once everything is ready.
+
+### 📂 Step 6: Access Your Generated Program
+
+- After the call ends, go to the **Profile** section to view your:
+  - Personalized workout plan
+  - Custom diet program
+- If you don’t see them immediately, try **refreshing the page**.
+
+---
+
 #  FITNOVA – Your AI-Powered Fitness Trainer
 
 FITNOVA is an AI-powered fitness web app designed to revolutionize your health journey. From voice-driven conversations to personalized workouts and meal plans, FITNOVA leverages the latest in AI and modern web technologies to deliver a smart, interactive fitness experience.
